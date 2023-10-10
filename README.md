@@ -1,8 +1,9 @@
-<p align="center">
-<strong align="center">🏆 Codeforces: <span style="color: cyan;">Specialist</span></strong>
-<a href="https://codeforces.com/profile/Omar.Gawdat" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Omar.Gawdat" height="35" width="35" />
-</a>
+<p align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
+  <strong style="font-size: 24px; color: #333;">🏆 Codeforces: </strong>
+  <span style="font-size: 24px; color: cyan;">Specialist</span><br>
+  <a href="https://codeforces.com/profile/Omar.Gawdat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Omar.Gawdat" height="50" width="50" />
+  </a>
 </p>
 
 <h2 align="center">🛠️ My Skills</h2>
