@@ -45,7 +45,7 @@
 </p>
 
 
-<h4 align="center">Mobile Development </h4>
+<h4 align="center">Mobile Development (Basics)</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile Development" />
 </p>
