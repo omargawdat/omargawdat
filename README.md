@@ -31,17 +31,17 @@
 
 <h4 align="center">Backend Development & Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,spring,mysql,postgresql,sqlite" alt="Backend Development & Databases" />
+  <img src="https://skillicons.dev/icons?i=django,spring,mysql,PostgreSQL,flask,fastapi" alt="Backend Development & Databases" />
 </p>
 
 <h4 align="center">DevOps, Cloud Services & Operating Systems</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,heroku,docker,nginx,linux" alt="DevOps, Cloud Services & Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=aws,heroku,docker,nginx,linux, terraform, ubuntu, githubactions, sentry" alt="DevOps, Cloud Services & Operating Systems" />
 </p>
 
 <h4 align="center">Development Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,idea" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,idea, pycharm, notion" alt="Development Tools" />
 </p>
 
 
