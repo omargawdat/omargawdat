@@ -20,11 +20,6 @@
   </table>
 </p>
 
-<h3 align="center">Languages & Core Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,dart" alt="Programming Languages" />
-</p>
-
 <h3 align="center">Backend & Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring" alt="Backend & Databases" />
@@ -40,7 +35,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform" alt="Cloud & Infrastructure" />
 </p>
-
+<h3 align="center">Languages & Core Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,dart" alt="Programming Languages" />
+</p>
 
 <h3 align="center">Tools & IDEs</h3>
 <p align="center">
