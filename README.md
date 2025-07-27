@@ -1,55 +1,87 @@
+<!-- ==================== -->
+<!--   Social Links       -->
+<!-- ==================== -->
+
 <p align="center">
-  <table width="100%" align="center" border="0">
-    <tr>
-      <td align="center" colspan="2">
-        <table width="100%" border="0">
-          <tr>
-            <td align="center" width="33%">
-              <a href="https://codeforces.com/profile/Omar.Gawdat" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Omar.Gawdat" height="40" width="40" />
-              </a>
-            </td>
-            <td align="center" width="33%">
-              <a href="https://www.linkedin.com/in/omar-gawdat-2635b51b0" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-gawdat" height="40" width="40" />
-              </a>
-            </td>
-            <td align="center" width="33%">
-              <a href="https://omargawdat.github.io" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portfolio" height="40" width="40" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Backend & Databases</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring" alt="Backend Frameworks" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
-        </p>
-        <h3 align="center">DevOps & Cloud</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=aws,docker,terraform" alt="Cloud & Infrastructure" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=nginx,linux,githubactions,sentry" alt="Operations & Monitoring" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">Languages & Core Technologies</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,dart" alt="Programming Languages" />
-        </p>
-        <h3 align="center">Tools & IDEs</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,vim" alt="Development Environments" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=git,github,notion" alt="Version Control & Collaboration" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://codeforces.com/profile/Omar.Gawdat" target="_blank" aria-label="Codeforces">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-gawdat-2635b51b0" target="_blank" aria-label="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://omargawdat.github.io" target="_blank" aria-label="Portfolio">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" width="40" height="40" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+<table align="center" width="100%" cellpadding="16" cellspacing="0">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
+  <tr>
+    <td align="center" valign="top">
+      <h3>Backend &amp; Databases</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <h3>DevOps &amp; Cloud</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" width="48" height="48" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>Languages &amp; Core Tech</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48" />
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <h3>Tools &amp; IDEs</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="48" height="48" />
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="48" height="48" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
