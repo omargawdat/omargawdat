@@ -3,16 +3,16 @@
 <!-- ==================== -->
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Omar.Gawdat" target="_blank" aria-label="Codeforces">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
+  <a href="https://omargawdat.github.io" target="_blank" aria-label="Portfolio">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/omar-gawdat-2635b51b0" target="_blank" aria-label="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://omargawdat.github.io" target="_blank" aria-label="Portfolio">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" width="40" height="40" />
+  <a href="https://codeforces.com/profile/Omar.Gawdat" target="_blank" aria-label="Codeforces">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
   </a>
 </p>
 
