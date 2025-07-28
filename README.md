@@ -1,7 +1,3 @@
-<!-- ==================== -->
-<!--   Social Links       -->
-<!-- ==================== -->
-
 <p align="center">
   <a href="https://omargawdat.github.io" target="_blank" aria-label="Portfolio">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Portfolio" width="40" height="40" />
